@@ -28,7 +28,7 @@
   <p align="center">
     Your ultimate hub for learning how to clip, edit, and share engaging content from Destiny's streams and the DGG channel!
     <br />
-    <a href="https://github.com/samfisherirl/_DGG_Clips_InfoCenter/discuss"><strong>Explore the discussion page »</strong></a>
+    <a href="https://github.com/samfisherirl/_DGG_Clips_InfoCenter/discussions"><strong>Explore the discussion page »</strong></a>
     <br />
     <br />
     <a href="https://github.com/dgg-clips-resources">View Demo</a>
