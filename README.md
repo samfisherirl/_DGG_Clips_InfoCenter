@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![DGG Clips Resources Screen Shot][product-screenshot]](https://example.com)
+ ![image](https://github.com/samfisherirl/_DGG_Clips_InfoCenter/assets/98753696/53e7b58f-1b76-47ff-8132-66869d75457e)
 
 DGG (Destiny's Game Group) Clips Resources aims to be a comprehensive guide for community members who are interested in creating and sharing clips from Destiny's streams. With an overwhelming amount of content streamed every day, capturing and showcasing these moments can be a daunting task. That's where we step in. We're here to guide you through the process of clipping, editing, and sharing your favorite moments for everyone to enjoy.
 
